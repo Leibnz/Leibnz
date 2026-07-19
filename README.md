@@ -44,5 +44,10 @@ UIKit • MVVM • Clean Architecture • Async/Await • DI • REST API
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Leibnz)](https://leetcode.com/u/Leibnz/)
 
 
+## 📫 Contact
+
+- 📧 Email: [antonov.ios.dev@gmail.com](mailto:antonov.ios.dev@gmail.com)
+- 💼 LinkedIn: www.linkedin.com/in/andrey-antonov-14baa93b2
+
 <!--
 **Leibnz/Leibnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
