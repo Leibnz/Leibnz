@@ -1,7 +1,6 @@
-## Hi, I'm Andrey 👋
+### Hi, I'm Andrey 👋
 
-## iOS Engineer
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leibnz)](https://github.com/stats-organization/github-stats-extended)
 
 ## About Me
 iOS Engineer focused on building high-quality mobile applications.
@@ -14,6 +13,9 @@ Experienced with Swift, UIKit, SwiftUI, Clean Architecture, MVVM, VIPER, and mod
 - Swift
 - SwiftUI
 - UIKit
+- MVVM
+- VIPER
+- Clean Architecture
 - Swift Concurrency
 - Combine
 - Core Data
@@ -21,15 +23,10 @@ Experienced with Swift, UIKit, SwiftUI, Clean Architecture, MVVM, VIPER, and mod
 - Git
 - Xcode
 
-🏛️ Architecture:
-- MVVM
-- VIPER
-- Clean Architecture
-
 
 ## 📱 Featured Projects
 
-### Expense Tracker
+### 💰 Expense Tracker
 
 Personal finance app with expense analytics and offline storage.
 
@@ -41,8 +38,6 @@ A modern food ordering application built with UIKit.
 
 UIKit • MVVM • Clean Architecture • Async/Await • DI • REST API 
 
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leibnz)](https://github.com/stats-organization/github-stats-extended)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Leibnz)](https://leetcode.com/u/Leibnz/)
 
