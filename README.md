@@ -9,6 +9,28 @@ I’m an iOS Engineer with a strong foundation in Apple technologies.
 - MVVM, VIPER, Clean Architecture
 - Building scalable and maintainable iOS applications
 
+### iOS Developer
+
+📱 Swift • SwiftUI • UIKit • Combine • MVVM • Clean Architecture
+
+## 🚀 About me
+
+- 📍 Germany
+- 💼 iOS Developer
+- 🌱 Currently learning Swift Concurrency
+
+## 🛠 Tech Stack
+
+- Swift
+- SwiftUI
+- UIKit
+- Combine
+- Core Data
+- Firebase
+- REST API
+- Git
+- Xcode
+
 
 <!--
 **Leibnz/Leibnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
