@@ -47,7 +47,7 @@ UIKit • MVVM • Clean Architecture • Async/Await • DI • REST API
 ## 📫 Contact
 
 - 📧 Email: [antonov.ios.dev@gmail.com](mailto:antonov.ios.dev@gmail.com)
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/andrey-antonov-14baa93b2)
+- 💼 LinkedIn: www.linkedin.com/in/andrey-antonov-14baa93b2
 
 <!--
 **Leibnz/Leibnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
