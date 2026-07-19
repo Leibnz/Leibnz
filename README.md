@@ -1,23 +1,13 @@
-# Hi, I'm Andrey 👋
+## Hi, I'm Andrey 👋
 
 ## iOS Engineer
 
+
 ## About Me
-I’m an iOS Engineer with a strong foundation in Apple technologies.
+iOS Engineer focused on building high-quality mobile applications.
 
-- Swift, UIKit, SwiftUI
-- MVVM, VIPER, Clean Architecture
-- Building scalable and maintainable iOS applications
+Experienced with Swift, UIKit, SwiftUI, Clean Architecture, MVVM, VIPER, and modern Apple frameworks.
 
-### iOS Developer
-
-📱 Swift • SwiftUI • UIKit • Combine • MVVM • Clean Architecture
-
-## 🚀 About me
-
-- 📍 Germany
-- 💼 iOS Developer
-- 🌱 Currently learning Swift Concurrency
 
 ## 🛠 Tech Stack
 
@@ -25,48 +15,27 @@ I’m an iOS Engineer with a strong foundation in Apple technologies.
 - SwiftUI
 - UIKit
 - Combine
+- Swift Concurrency
 - Core Data
-- Firebase
 - REST API
 - Git
 - Xcode
 
+🏛️ Architecture:
+- MVVM
+- VIPER
+- Clean Architecture
 
-<!--
-**Leibnz/Leibnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Core: Swift, UIKit, SwiftUI, Foundation, Auto Layout Concurrency: async/await, actors, Structured Concurrency, GCD, Combine Networking: URLSession, Alamofire, REST, JSON, Codable, OAuth 2.0, JWT Storage: Core Data, Realm, Keychain Architecture: MVVM, MVI, VIPER, Coordinator, Clean Architecture, SOLID, DI Tooling: Git (Git Flow), Xcode, Instruments, Charles, XCTest, SPM
-
-📱 Swift • SwiftUI • UIKit • Combine • MVVM • Clean Architecture
-
-
-
-## Stack
-
-- Swift
-- SwiftUI
-- UIKit
-- Combine
-- Core Data
-- Firebase
-- REST API
-- Git
-- Xcode
 
 ## 📱 Featured Projects
 
-### Weather App
-SwiftUI • MVVM • OpenWeather API
-
 ### Expense Tracker
-UIKit • CoreData
+SwiftUI • MVVM • CoreData
 
-### Chat App
-Firebase • SwiftUI
+### Pizza App
+UIKit • MVVM • Swift Concurrency
 
-## 📫 Contacts
+[![Leetcode Stats](https://leetcode.com/u/Leibnz/)](https://leetcode.com/u/Leibnz/)
 
-- LinkedIn
-- Telegram
-- Email
+<!--
+**Leibnz/Leibnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
