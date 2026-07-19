@@ -26,17 +26,18 @@ Experienced with Swift, UIKit, SwiftUI, Clean Architecture, MVVM, VIPER, and mod
 
 ## 📱 Featured Projects
 
-### 💰 Expense Tracker
+### 💰 [Expense Tracker](https://github.com/Leibnz/ExpenseTracker)
 
-Personal finance app with expense analytics and offline storage.
+Personal finance app with expense analytics and offline storage. 
 
 SwiftUI • MVVM • CoreData
 
-### 🍕 Pizza App
+### 🍕 [Pizza App](https://github.com/Leibnz/pizzaProject)
 
 A modern food ordering application built with UIKit.
 
 UIKit • MVVM • Clean Architecture • Async/Await • DI • REST API 
+
 
 ## Leetcode
 
