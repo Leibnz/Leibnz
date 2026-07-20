@@ -1,4 +1,4 @@
-### Hi, I'm Andrey 👋
+### Hi there! Welcome to my GitHub 👋
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leibnz)](https://github.com/stats-organization/github-stats-extended)
 
